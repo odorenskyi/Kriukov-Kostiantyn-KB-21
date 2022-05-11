@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1651749102 source:d:\code\bmtp_lab_8\prj\testdriver\main.cpp
+	<iostream>
+	<math.h>
+	"ModuleKriukov.h"
+
+1651838936 d:\code\bmtp_lab_8\prj\modulekriukov.h
+	<cmath>
+	<math.h>
+	<iostream>
+

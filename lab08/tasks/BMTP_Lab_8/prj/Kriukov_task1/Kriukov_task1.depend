@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1652185475 source:d:\code\bmtp_lab_8\prj\kriukov_task1\main.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+	<conio.h>
+
