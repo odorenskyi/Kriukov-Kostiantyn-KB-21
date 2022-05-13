@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1652436179 source:d:\code\bmtp_lab_8\prj\kriukov_task1\main.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+	"ModuleKriukov.h"
+
+1652433699 d:\code\bmtp_lab_8\prj\modulekriukov.h
+	<cmath>
+	<math.h>
+	<iostream>
+
+1652436401 source:c:\users\Крюков Константин\documents\github\kriukov-kostiantyn-kb-21\lab08\prj\kriukov_task1\main.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+	"ModuleKriukov.h"
+
+1652436434 c:\users\Крюков Константин\documents\github\kriukov-kostiantyn-kb-21\lab08\prj\modulekriukov.h
+	<cmath>
+	<math.h>
+	<iostream>
+
